@@ -1,0 +1,15 @@
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\bin\Debug\net5.0\Models.dll
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\bin\Debug\net5.0\ref\Models.dll
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\Models.dll
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\ref\Models.dll
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache
+C:\Users\rsra4k\source\repos\TaskCodeUp\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
